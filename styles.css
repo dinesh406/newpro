@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: blueviolet;
+}
+#edu{
+  color: brown;
+}
+.cln{
+  background:cadetblue
+
+}
+.qw{
+  background-color: coral;
+  padding: 2px;
+
+}
+.com{
+  color:darkred
+}
+.btm1{
+  background-color:green;
+  color:white;
+  padding:20px;
+  width:120px;
+  border-radius:20px;
+  outline:none;
+  }
+  .btm1:hover{
+    background-color: deeppink;
+  }
+  
